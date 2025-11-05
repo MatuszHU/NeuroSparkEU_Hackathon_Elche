@@ -16,8 +16,15 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url = uri("https://jitpack.io")}
+        flatDir {
+            dirs("libs")
+        }
     }
 }
 
 rootProject.name = "Hackathon"
 include(":app")
+
+
+include(":unicorn")
