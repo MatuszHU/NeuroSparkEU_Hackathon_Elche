@@ -5,25 +5,26 @@
 #### Alicia Alonso
 ##### PhD Neuroscience
 Universidad Miguel Hernández de Elche (Spain)
-a.alonso@umh.es 
-
+a.alonso@umh.es
+Methodogy, Scientific Lead
 
 #### Máté Majoros
 ##### BSc Computer Science
 Debreceni Egyetem (Hungary)
 matusz@mailbox.unideb.hu 
-
+Software Engineer
 
 #### Stephanie Pittara
 ##### MSc Molecular Techniques in Life Sciences
 Karolinska Institutet (Sweden)
 stephanie.pittara@stud.ki.se 
-
+Research and Development Engineer
 
 #### Anna Skyrda
 ##### MSc Psychology
 Rheinische Friedrich-Wilhelms-Universität Bonn (Germany)
 s55askyr@uni-bonn.de 
+Research and Development Engineer, Presentatiopn Manager
 
 ## Proposed Android App for EEG-Based Alexithymia Screening and Monitoring
 ### Alexithymia and Its EEG Correlates
@@ -45,3 +46,6 @@ Alexithymia is considered a personality trait or subclinical phenomenon rather t
 
 Alexithymia is a condition marked by difficulties in identifying and describing emotions can be a significant risk factor for various mental disorders, including depression and anxiety, and can influence treatment outcomes. Given its impact on emotional regulation and mental health, accurate and objective assessment of alexithymia is crucial. Traditional self-report and interview-based methods are limited by subjectivity and lack of convenience. Recent research highlights the potential of using electroencephalogram (EEG) signals combined with machine learning to assess alexithymia objectively. By analyzing resting-state brain activity, particularly within the default mode network, such approaches can identify neural patterns linked to emotional awareness. For example, functional connectivity in the theta and gamma frequency bands, especially in the left hippocampus, has been found to correlate with alexithymia severity. This integration of EEG and explainable AI offers a promising, biologically grounded, and accessible tool for early detection and intervention in mental health care.
 
+## Application
+
+This application diretly connects to a Unicorn Hybrid Black BCI device and reads signals from the frontal lobe. It enables the user after calibration to read their Alpha, Beta and Delta Brainwaves, and from that derive their emotianal state.
