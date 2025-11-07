@@ -26,7 +26,7 @@
 ##### MSc Psychology
 * Rheinische Friedrich-Wilhelms-Universität Bonn (Germany)
 * s55askyr@uni-bonn.de 
-* Research and Development Engineer, Presentatiopn Manager
+* Research and Development Engineer, Presentation Manager
 
 ---
 
